@@ -1,4 +1,4 @@
-# SQL Learning Journey — Raj Shahi
+# SQL Learning Journey — Ansh Shahi
 
 A practical SQL learning repository documenting my progress from foundational queries to filtering, operators, aggregate functions, string functions, date/time functions, conditional functions, and `CASE` expressions.
 
